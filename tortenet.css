@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient( to right, #7b021a, #090103 );
+}
+p{
+    color: white;
+}
+h1{
+color: white;
+}
+h3{
+color: white;
+background-color: slategray;
+}
+h5{
+    color: white;
+    }
+table{
+    margin-left: 35%;
+    border: 5px solid black;
+}
+th{
+    border: 5px solid black;
+}
+td{
+    text-align: center;
+    border: 5px solid black;
+}
+tr{
+    text-align: center;
+}
+h4{
+    color: sandybrown;
+}
