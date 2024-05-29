@@ -4,3 +4,19 @@ body{
 p{
     color: greenyellow;
 }
+h3{
+    text-align: center;
+    color: #000000;
+}
+table{
+    margin-left: 30%;
+}
+p{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    color: #000000;
+}

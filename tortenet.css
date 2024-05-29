@@ -31,3 +31,6 @@ tr{
 h4{
     color: sandybrown;
 }
+.line{
+    border-bottom: 20px solid black;
+}
